@@ -1,0 +1,2609 @@
+.labpage1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.labpage1-labpage1 {
+  width: 1888px;
+  height: 3480px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.labpage1-bg {
+  top: 0px;
+  left: -298px;
+  width: var(--dl-size-size-xxlarge);
+  height: 3669px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-rectangle1 {
+  top: 0px;
+  left: 297px;
+  width: 1440px;
+  height: 855px;
+  position: absolute;
+}
+.labpage1-rectangle63 {
+  top: 594px;
+  left: 298px;
+  width: 1440px;
+  height: 3075px;
+  position: absolute;
+}
+.labpage1-text {
+  top: 2249px;
+  left: 320px;
+  color: rgba(132, 207, 237, 0.25);
+  height: auto;
+  position: absolute;
+  font-size: 250px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 222px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle82 {
+  top: 1901px;
+  left: 0px;
+  width: 1441px;
+  height: 1694px;
+  position: absolute;
+}
+.labpage1-rectangle22 {
+  top: 1108px;
+  left: 260px;
+  width: 2078px;
+  height: 1604px;
+  position: absolute;
+}
+.labpage1-expressiveyoungwomanposingstudioremovebgpreviewtra {
+  top: 1998px;
+  left: 826px;
+  width: 874px;
+  height: 707px;
+  position: absolute;
+}
+.labpage1-footer {
+  right: -3px;
+  width: 1884px;
+  bottom: 3px;
+  height: 724px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(31, 31, 31, 1);
+}
+.labpage1-n-llogo-transparent11 {
+  top: 81px;
+  left: 26px;
+  width: 137px;
+  height: 137px;
+  position: absolute;
+}
+.labpage1-text002 {
+  top: 250px;
+  left: 26px;
+  color: rgba(255, 255, 255, 1);
+  width: 470px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text004 {
+  top: 281px;
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle50 {
+  top: 471px;
+  left: 25px;
+  width: 471px;
+  height: 88px;
+  position: absolute;
+  border-radius: 14px;
+}
+.labpage1-rectangle51 {
+  top: 471px;
+  left: 379px;
+  width: 117px;
+  height: 88px;
+  position: absolute;
+}
+.labpage1-call {
+  top: 495px;
+  left: 418px;
+  width: 39px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox {
+  top: 0px;
+  left: 0px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.labpage1-call1 {
+  top: 4.875px;
+  left: 4.875px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.labpage1-line4 {
+  top: 483px;
+  left: 143px;
+  width: 64px;
+  height: 1px;
+  position: absolute;
+}
+.labpage1-text006 {
+  top: 501px;
+  left: 60px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text008 {
+  top: 182px;
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text010 {
+  top: 343px;
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text012 {
+  top: 405px;
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text014 {
+  top: 467px;
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text016 {
+  top: 281px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text018 {
+  top: 182px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text020 {
+  top: 343px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text022 {
+  top: 405px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text024 {
+  top: 467px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text026 {
+  top: 529px;
+  left: 886px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text028 {
+  top: 281px;
+  left: 1121px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text030 {
+  top: 182px;
+  left: 1121px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text032 {
+  top: 343px;
+  left: 1121px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text034 {
+  top: 405px;
+  left: 1121px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text036 {
+  top: 467px;
+  left: 1121px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text038 {
+  top: 662px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-component4 {
+  top: 662px;
+  left: 24px;
+  width: 27px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-ellipse25 {
+  top: 1px;
+  left: 0px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.labpage1-text040 {
+  left: 6px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-line5 {
+  top: 599px;
+  left: 26px;
+  width: 1391px;
+  height: 1px;
+  position: absolute;
+}
+.labpage1-herotextimage {
+  top: 113px;
+  left: 774px;
+  width: 603px;
+  height: 623px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-component1 {
+  top: 102px;
+  left: 89px;
+  width: 514px;
+  height: 521px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle65 {
+  top: 14.875495910644531px;
+  left: 198.26312255859375px;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  border-color: rgba(0, 140, 216, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.labpage1-rectangle64 {
+  top: 14.875495910644531px;
+  left: 255.91812133789062px;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+}
+.labpage1-mediumshotwomanlookingthroughmicroscoperemovebgpre {
+  top: 15px;
+  left: 90px;
+  width: 352px;
+  height: 397px;
+  position: absolute;
+}
+.labpage1-rectangle66 {
+  top: 305.3863830566406px;
+  left: 548.5891723632812px;
+  width: 301px;
+  height: 133px;
+  position: absolute;
+}
+.labpage1-rectangle67 {
+  top: 330.9145202636719px;
+  left: 6.29225894499541e-7px;
+  width: 124px;
+  height: 269px;
+  position: absolute;
+}
+.labpage1-component7 {
+  top: 152px;
+  left: 119px;
+  width: 166px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle75 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 89px;
+  position: absolute;
+  border-radius: 13px;
+}
+.labpage1-ellipse1 {
+  top: 21px;
+  left: 17px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.labpage1-component5 {
+  top: 261px;
+  left: 0px;
+  width: 183px;
+  height: 90px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle76 {
+  top: 0px;
+  left: 0px;
+  width: 183px;
+  height: 90px;
+  position: absolute;
+  border-radius: 13px;
+}
+.labpage1-text041 {
+  top: 28px;
+  left: 62px;
+  color: rgba(51, 51, 51, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-ellipse2 {
+  top: 22px;
+  left: 10px;
+  width: 45px;
+  height: 44px;
+  position: absolute;
+}
+.labpage1-component6 {
+  top: 371px;
+  left: 111px;
+  width: 183px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle68 {
+  top: 0px;
+  left: 0px;
+  width: 183px;
+  height: 89px;
+  position: absolute;
+  border-radius: 13px;
+}
+.labpage1-ellipse3 {
+  top: 20px;
+  left: 11px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.labpage1-text043 {
+  left: 14px;
+  color: rgba(19, 142, 209, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text044 {
+  color: rgba(19, 142, 209, 1);
+}
+.labpage1-vector1 {
+  top: 70px;
+  left: 9px;
+  width: 314px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-accuratetimelyreports {
+  top: 397px;
+  left: 174px;
+  width: 100px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-text046 {
+  color: rgba(51, 51, 51, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-timelysamplecollection {
+  top: 179px;
+  left: 191px;
+  width: 85px;
+  height: 32.11821746826172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-text048 {
+  color: rgba(51, 51, 51, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-fillinform {
+  top: 126px;
+  left: 122px;
+  width: 470px;
+  height: 420px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.labpage1-rectangle70 {
+  top: 81px;
+  left: 74px;
+  width: 299px;
+  height: 47px;
+  position: absolute;
+  border-radius: 5px;
+}
+.labpage1-rectangle71 {
+  top: 160px;
+  left: 74px;
+  width: 299px;
+  height: 47px;
+  position: absolute;
+  border-radius: 5px;
+}
+.labpage1-rectangle72 {
+  top: 239px;
+  left: 74px;
+  width: 299px;
+  height: 47px;
+  position: absolute;
+  border-radius: 5px;
+}
+.labpage1-text050 {
+  top: 83px;
+  left: 78px;
+  color: black;
+  width: 295px;
+  height: 54px;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text052 {
+  top: 150px;
+    left: 78px;
+    color: black;
+    width: 295px;
+    height: 54px;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text054 {
+  top: 240px;
+  left: 78px;
+  color: black;
+  width: 295px;
+  height: 54px;
+  margin: 0%;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-person {
+  top: 82px;
+  left: 20px;
+  width: 46px;
+  height: 45.021278381347656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox01 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 45px;
+  position: absolute;
+}
+.labpage1-person1 {
+  top: 10.100895881652832px;
+  left: 9.583353042602539px;
+  width: 27px;
+  height: 25px;
+  position: absolute;
+}
+.labpage1-call2 {
+  top: 160px;
+  left: 20px;
+  width: 46px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox02 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+}
+.labpage1-call3 {
+  top: 7.666666507720947px;
+  left: 7.666666507720947px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.labpage1-distance {
+  top: 239px;
+  left: 20px;
+  width: 46px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox03 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+}
+.labpage1-distance1 {
+  top: 4.791666030883789px;
+  left: 12.458332061767578px;
+  width: 21px;
+  height: 36px;
+  position: absolute;
+}
+.labpage1-component2 {
+  top: 305px;
+  left: 36px;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle73 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  border-color: rgba(117, 206, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.labpage1-check {
+  top: 2.588235378265381px;
+  left: 2.588235378265381px;
+  width: 16.823530197143555px;
+  height: 16.823530197143555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.labpage1-check1 {
+  top: 4.66078519821167px;
+  left: 3.1698994636535645px;
+  width: 10px;
+  height: 7px;
+  position: absolute;
+}
+.labpage1-text056 {
+  top: 302px;
+  left: 74px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text057 {
+  font-weight: 500;
+}
+.labpage1-text058 {
+  font-weight: 600;
+}
+.labpage1-text059 {
+  font-weight: 500;
+}
+.labpage1-rectangle74 {
+  top: 343px;
+  left: 117px;
+  width: 236px;
+  height: 42px;
+  position: absolute;
+  border-radius: 6px;
+}
+.labpage1-text061 {
+  top: 352px;
+  left: 193px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text063 {
+  top: 26px;
+  left: 74px;
+  color: rgba(47, 47, 47, 1);
+  width: 307px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-offerline {
+  top: 559px;
+  left: 122px;
+  width: 608px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-rectangle108 {
+  top: 1px;
+  left: 414px;
+  width: 194px;
+  height: 68px;
+  position: absolute;
+  border-radius: 34px;
+}
+.labpage1-rectangle106 {
+  top: 0px;
+  left: 0px;
+  width: 470px;
+  height: 70px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 35px;
+}
+.labpage1-text065 {
+  top: 23px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text066 {
+  font-weight: 400;
+}
+.labpage1-text067 {
+  font-weight: 700;
+}
+.labpage1-currencyrupee {
+  top: 26px;
+  left: 310px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.labpage1-currencyrupee01 {
+  top: 2.25px;
+  left: 4.5px;
+  width: 9px;
+  height: 13px;
+  position: absolute;
+}
+.labpage1-text069 {
+  top: 23px;
+  left: 328px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle107 {
+  top: 35px;
+  left: 313px;
+  width: 68px;
+  height: 1px;
+  position: absolute;
+  border-radius: 0.5px;
+}
+.labpage1-currencyrupee02 {
+  top: 25px;
+  left: 386px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.labpage1-currencyrupee03 {
+  top: 2.5px;
+  left: 5px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+}
+.labpage1-text071 {
+  top: 23px;
+  left: 404px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text073 {
+  top: 24px;
+  left: 485px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-whychooseus {
+  top: 1783px;
+  left: 84px;
+  width: 962px;
+  height: 878px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-text075 {
+  left: 411px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text076 {
+  color: rgba(47, 47, 47, 1);
+}
+.labpage1-text077 {
+  color: rgba(0, 140, 216, 1);
+}
+.labpage1-text079 {
+  top: 99px;
+  left: 233px;
+  color: rgba(109, 109, 109, 1);
+  width: 729px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-vector4 {
+  top: 70px;
+  left: 517px;
+  width: 209px;
+  height: 17px;
+  position: absolute;
+}
+.labpage1-rectangle24 {
+  top: 243px;
+  left: 0px;
+  width: 373px;
+  height: 226px;
+  position: absolute;
+  border-radius: 33px;
+}
+.labpage1-rectangle25 {
+  top: 577px;
+  left: 0px;
+  width: 373px;
+  height: 244px;
+  position: absolute;
+  border-radius: 33px;
+}
+.labpage1-rectangle26 {
+  top: 301px;
+  left: 411px;
+  width: 377px;
+  height: 244px;
+  position: absolute;
+  border-radius: 33px;
+}
+.labpage1-rectangle27 {
+  top: 634px;
+  left: 411px;
+  width: 377px;
+  height: 244px;
+  position: absolute;
+  border-radius: 33px;
+}
+.labpage1-ellipse14 {
+  top: 243px;
+  left: 686px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.labpage1-ellipse13 {
+  top: 517px;
+  left: 255px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.labpage1-ellipse15 {
+  top: 574px;
+  left: 668px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.labpage1-text081 {
+  top: 261px;
+  left: 15px;
+  color: rgba(47, 47, 47, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text083 {
+  top: 323px;
+  left: 426px;
+  color: rgba(47, 47, 47, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text085 {
+  top: 596px;
+  left: 38px;
+  color: rgba(47, 47, 47, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text087 {
+  top: 654px;
+  left: 444px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-ellipse16 {
+  top: 183px;
+  left: 271px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.labpage1-text089 {
+  top: 349px;
+  left: 15px;
+  color: rgba(47, 47, 47, 1);
+  width: 278px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text091 {
+  top: 421px;
+  left: 426px;
+  color: rgba(47, 47, 47, 1);
+  width: 318px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text093 {
+  top: 694px;
+  left: 38px;
+  color: rgba(47, 47, 47, 1);
+  width: 259px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text095 {
+  top: 712px;
+  left: 444px;
+  color: rgba(47, 47, 47, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-header {
+  top: 0px;
+  left: 0px;
+  width: 2183px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.labpage1-component10 {
+  top: 10px;
+  left: 80px;
+  width: 277px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-screenshot20230725165513removebgpreview1 {
+  top: 0px;
+  left: 63px;
+  width: 214px;
+  height: 64px;
+  position: absolute;
+}
+.labpage1-n-llogo-transparent111 {
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 64px;
+  position: absolute;
+}
+.labpage1-group1 {
+  top: 24.292678833007812px;
+  left: 475px;
+  width: 423px;
+  height: 41.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-text097 {
+  left: 233px;
+  color: rgba(19, 142, 209, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text099 {
+  color: rgba(0, 0, 0, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text101 {
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text103 {
+  top: 1.012195110321045px;
+  left: 345px;
+  color: rgba(0, 0, 0, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle126 {
+  top: 28px;
+  left: 945px;
+  width: 113px;
+  height: 35px;
+  position: absolute;
+  border-radius: 4px;
+}
+.labpage1-rectangle127 {
+  top: 28px;
+  left: 1075px;
+  width: 113px;
+  height: 35px;
+  position: absolute;
+  border-radius: 4px;
+}
+.labpage1-component11 {
+  top: 28px;
+  left: 1298px;
+  width: 115px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle45 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 35px;
+  position: absolute;
+  border-radius: 4px;
+}
+.labpage1-text105 {
+  top: 4.117647171020508px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle48 {
+  top: 7.205882549285889px;
+  left: 8px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.labpage1-text107 {
+  top: 33px;
+  left: 962px;
+  color: rgba(255, 255, 255, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text109 {
+  top: 33px;
+  left: 1089px;
+  color: rgba(255, 255, 255, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-group8 {
+  top: 1080px;
+  left: 92px;
+  width: 1294px;
+  height: 564px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-text111 {
+  left: 470px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text112 {
+  color: rgba(0, 0, 0, 1);
+}
+.labpage1-vector5 {
+  top: 70px;
+  left: 561px;
+  width: 262px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-text114 {
+  top: 107px;
+  left: 134px;
+  color: rgba(109, 109, 109, 1);
+  width: 927px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle13 {
+  left: 417px;
+  width: 353px;
+  bottom: -3px;
+  height: 339px;
+  position: absolute;
+}
+.labpage1-rectangle14 {
+  left: -10px;
+  width: 353px;
+  bottom: -4px;
+  height: 339px;
+  position: absolute;
+}
+.labpage1-rectangle15 {
+  right: 89px;
+  width: 377px;
+  bottom: 2px;
+  height: 337px;
+  position: absolute;
+}
+.labpage1-text116 {
+  top: 266px;
+  left: 20px;
+  color: rgba(47, 47, 47, 1);
+  width: 235px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text118 {
+  top: 393px;
+  left: 20px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text120 {
+  top: 364px;
+  left: 20px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text122 {
+  top: 364px;
+  left: 82px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text124 {
+  top: 266px;
+  left: 463px;
+  color: rgba(47, 47, 47, 1);
+  width: 279px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text126 {
+  top: 393px;
+  left: 446px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text128 {
+  top: 364px;
+  left: 446px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text130 {
+  top: 364px;
+  left: 508px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text132 {
+  top: 266px;
+  left: 867px;
+  color: rgba(47, 47, 47, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text134 {
+  top: 393px;
+  left: 868px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text136 {
+  top: 364px;
+  left: 868px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text138 {
+  top: 364px;
+  left: 924px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-ellipse12 {
+  top: 325px;
+  left: 1152px;
+  width: 142px;
+  height: 142px;
+  position: absolute;
+}
+.labpage1-arrow1 {
+  top: 397px;
+  left: 1200px;
+  width: 50px;
+  height: 1px;
+  position: absolute;
+}
+.labpage1-grade {
+  top: 361px;
+  left: 54px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox04 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.labpage1-grade1 {
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.labpage1-grade2 {
+  top: 362px;
+  left: 480px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.labpage1-grade3 {
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.labpage1-grade4 {
+  top: 361px;
+  left: 899px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.labpage1-grade5 {
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.labpage1-rectangle83 {
+  top: 481px;
+  left: 44px;
+  width: 264px;
+  height: 43px;
+  position: absolute;
+  border-radius: 6px;
+}
+.labpage1-text140 {
+  top: 493px;
+  left: 125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle831 {
+  top: 481px;
+  left: 466px;
+  width: 264px;
+  height: 43px;
+  position: absolute;
+  border-radius: 6px;
+}
+.labpage1-text142 {
+  top: 493px;
+  left: 547px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle84 {
+  top: 481px;
+  left: 884px;
+  width: 264px;
+  height: 43px;
+  position: absolute;
+  border-radius: 6px;
+}
+.labpage1-text144 {
+  top: 493px;
+  left: 965px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text146 {
+  top: 438px;
+  left: 85px;
+  color: rgba(109, 109, 109, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text148 {
+  top: 438px;
+  left: 186px;
+  color: rgba(47, 47, 47, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-currencyrupee04 {
+  top: 438px;
+  left: 173px;
+  width: 16px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox07 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-currencyrupee05 {
+  top: 2.7142856121063232px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-text150 {
+  top: 438px;
+  left: 20px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle132 {
+  top: 447px;
+  left: 73px;
+  width: 79px;
+  height: 2px;
+  position: absolute;
+  border-radius: 1px;
+}
+.labpage1-currencyrupee06 {
+  top: 439px;
+  left: 73px;
+  width: 16px;
+  height: 18.005510330200195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox08 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
+}
+.labpage1-currencyrupee07 {
+  top: 2.5722157955169678px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-text152 {
+  top: 439px;
+  left: 511px;
+  color: rgba(109, 109, 109, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text154 {
+  top: 439px;
+  left: 612px;
+  color: rgba(47, 47, 47, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-currencyrupee08 {
+  top: 439px;
+  left: 498px;
+  width: 16px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox09 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-currencyrupee09 {
+  top: 2.7142856121063232px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-currencyrupee10 {
+  top: 439px;
+  left: 599px;
+  width: 16px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox10 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-currencyrupee11 {
+  top: 2.7142856121063232px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-rectangle133 {
+  top: 448px;
+  left: 498px;
+  width: 79px;
+  height: 2px;
+  position: absolute;
+  border-radius: 1px;
+}
+.labpage1-text156 {
+  top: 438px;
+  left: 446px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text158 {
+  top: 438px;
+  left: 936px;
+  color: rgba(109, 109, 109, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text160 {
+  top: 438px;
+  left: 1033px;
+  color: rgba(47, 47, 47, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-currencyrupee12 {
+  top: 438px;
+  left: 923px;
+  width: 16px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox11 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-currencyrupee13 {
+  top: 2.7142856121063232px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-rectangle134 {
+  top: 447px;
+  left: 920px;
+  width: 79px;
+  height: 2px;
+  position: absolute;
+  border-radius: 1px;
+}
+.labpage1-currencyrupee14 {
+  top: 438px;
+  left: 1020px;
+  width: 16px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-boundingbox12 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-currencyrupee15 {
+  top: 2.7142856121063232px;
+  left: 2.08695650100708px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.labpage1-text162 {
+  top: 438px;
+  left: 868px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-wekeepexpanding {
+  top: 797px;
+  left: 181px;
+  width: 1079px;
+  height: 265px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-text164 {
+  left: 284px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text165 {
+  color: rgba(51, 51, 51, 1);
+}
+.labpage1-text166 {
+  color: rgba(19, 142, 209, 1);
+}
+.labpage1-vector2 {
+  top: 70px;
+  left: 516px;
+  width: 262px;
+  height: 19px;
+  position: absolute;
+}
+.labpage1-group7 {
+  top: 186px;
+  left: 0px;
+  width: 1079px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-component15 {
+  top: 4px;
+  left: 0px;
+  width: 138px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle131 {
+  top: 0px;
+  left: 0px;
+  width: 138px;
+  height: 72px;
+  position: absolute;
+  border-color: rgba(19, 142, 209, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.labpage1-text167 {
+  top: 9.113924026489258px;
+  left: 61.231788635253906px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  box-shadow: 0px 4px 50px 0px rgba(117, 206, 255, 1) ;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text169 {
+  top: 36.45569610595703px;
+  left: 47.52317810058594px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-component16 {
+  top: 0px;
+  left: 222px;
+  width: 151px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle1311 {
+  top: 0px;
+  left: 0px;
+  width: 151px;
+  height: 79px;
+  position: absolute;
+  border-color: rgba(19, 142, 209, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.labpage1-text171 {
+  top: 10px;
+  left: 270px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text173 {
+  top: 38px;
+  left: 254px;
+  color: rgba(255, 255, 255, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-component17 {
+  top: 0px;
+  left: 457px;
+  width: 151px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle1312 {
+  top: 0px;
+  left: 0px;
+  width: 151px;
+  height: 79px;
+  position: absolute;
+  border-color: rgba(19, 142, 209, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.labpage1-text175 {
+  top: 13px;
+  left: 497px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text177 {
+  top: 40px;
+  left: 472px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-component18 {
+  top: 0px;
+  left: 694px;
+  width: 151px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle1313 {
+  top: 0px;
+  left: 0px;
+  width: 151px;
+  height: 79px;
+  position: absolute;
+  border-color: rgba(19, 142, 209, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.labpage1-text179 {
+  top: 13px;
+  left: 739px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text181 {
+  top: 40px;
+  left: 716px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-component19 {
+  top: 0px;
+  left: 928px;
+  width: 151px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.labpage1-rectangle1314 {
+  top: 0px;
+  left: 0px;
+  width: 151px;
+  height: 79px;
+  position: absolute;
+  border-color: rgba(19, 142, 209, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.labpage1-text183 {
+  top: 14px;
+  left: 989px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-text185 {
+  top: 38px;
+  left: 937px;
+  color: rgba(255, 255, 255, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-accreditation {
+  top: 693px;
+  left: 369px;
+  width: 701.11767578125px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.labpage1-rectangle81 {
+  top: 0px;
+  left: 373px;
+  width: 62px;
+  height: 66px;
+  position: absolute;
+}
+.labpage1-text187 {
+  top: 21px;
+  left: 443.11767578125px;
+  color: rgba(47, 47, 47, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.labpage1-rectangle80 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 66px;
+  position: absolute;
+}
+.labpage1-text189 {
+  top: 21px;
+  left: 68px;
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
